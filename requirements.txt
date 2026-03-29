@@ -24,3 +24,12 @@ urllib3==2.6.3
 uvicorn==0.42.0
 python-dotenv
 mysql-connector-python
+fastapi
+uvicorn
+streamlit
+pandas
+mysql-connector-python
+langchain
+langchain-community
+langchain-ollama
+faiss-cpu
